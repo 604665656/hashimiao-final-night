@@ -1,0 +1,24 @@
+{
+  "key": "hashimiao-final-night",
+  "source": "C:/Users/60466/Desktop/哈士喵决赛押宝夜AVG.html",
+  "source_bytes": 446183,
+  "source_chars": 433601,
+  "entry_bytes": 446183,
+  "scripts": 4,
+  "styles": 1,
+  "style_bytes": 24826,
+  "app_bytes": [
+    347720,
+    6021,
+    59963,
+    5884
+  ],
+  "asset_refs": 0,
+  "assets_copied": 0,
+  "root_abs_refs": 0,
+  "data_image": 15,
+  "url_fragment": 0,
+  "build_label": "11.12 封盘版 · 合并单版",
+  "build_id": "s16-final-avg-2026-11-12",
+  "sha256": "f14986767ba3a39b"
+}
